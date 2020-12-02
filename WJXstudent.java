@@ -1,6 +1,9 @@
-import java.util.*
+$ git checkout blg
+Student.java
+	import java.util.*
 class student{
-  private string name;
-  private string address;
-  private string email;   //修改的内容,再次修改
+      private string name;
+      private string address;
+      private string email;
+      private String telephone;   //新增电话属性
 }
